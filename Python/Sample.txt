@@ -1,0 +1,5 @@
+Hi! We are learning Python.
+The current chapter is File Handling.
+We are doing Assignment 4.
+This is Task 1.
+The aim is to learn competitive programming!
